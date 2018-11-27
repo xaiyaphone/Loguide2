@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "294568643731",
+    "firebase_url": "https://loguide-bdf1f.firebaseio.com",
+    "project_id": "loguide-bdf1f",
+    "storage_bucket": "loguide-bdf1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294568643731:android:6f22d7a43d614a75",
+        "android_client_info": {
+          "package_name": "travel.loguide.software.loguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294568643731-vc4q7qje05rfhqkvmel9mbpdssgbt5nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "travel.loguide.software.loguide",
+            "certificate_hash": "acba0b855cc2d55e13a7de5a7790a1ecbacc09e5"
+          }
+        },
+        {
+          "client_id": "294568643731-6k7ktnkkrc4sar2nvge9a8rpi8ostack.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsC1_NL2jxVXtp02IQWhq3-4Kc6eJWHwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294568643731-6k7ktnkkrc4sar2nvge9a8rpi8ostack.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
